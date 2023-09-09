@@ -1,5 +1,9 @@
 # Responsive Blog Website is created  by using html and bootstrap. 
 
+
+[![Instagram](https://img.shields.io/badge/Click-Here-blue)](https://hw98yw.csb.app/index.html)
+
+
 ## Landaing Page Preview (1)
 
 ![Screenshot (279)](https://github.com/skp3214/BlogWebsite/assets/95349420/02e30be3-89b1-4575-857f-9477ead9f0c4)
