@@ -1,7 +1,7 @@
 # Responsive Blog Website is created  by using html and bootstrap. 
 
 
-[!(https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/skprajapati3215/)
+[![BlogWebsite](https://img.shields.io/badge/Click_Here-Welcome_to_Novice2Cipher-blue)](https://hw98yw.csb.app)
 
 
 ## Landaing Page Preview (1)
